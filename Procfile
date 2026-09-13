@@ -1,1 +1,1 @@
-worker: python kitob_bot main.py
+worker: python kitob_bot/ main.py
